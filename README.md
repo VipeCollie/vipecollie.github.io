@@ -1,2 +1,4 @@
-# vipecollie.github.io
-Blog
+# VipeCollie
+
+Visitez mon blog https://vipecollie.github.io
+
