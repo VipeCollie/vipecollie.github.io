@@ -10,4 +10,5 @@ title: Accueil
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
+
 [Présentation](_posts/2025-05-07-presentation.md)
