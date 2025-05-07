@@ -9,7 +9,7 @@ categories: [blog, jekyll]
 
 Bienvenue !
 
-<img src="/_assets/image/1.jpg" alt="1" width="300" height="300">
+<img src="/assets/image/1.jpg" alt="1" width="300" height="300">
 
 
 Je suis lycéen.
