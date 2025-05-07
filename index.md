@@ -5,21 +5,16 @@ title: Accueil
 
 # Bienvenue sur ma page
 
-Voici mes derniers articles :
+## Articles de Blog
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
-Voici mon portfolio :
-<ul>
-  {% for post in site.portfolio %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}
-    </li>
-  {% endfor %}
-</ul>
+## Portfolio
+
+{% for page in site.pages %}
+  {% if page.path contains '_portfolio' %}
+  - [{{ page.title }}]({{ page.url }})
+  {% endif %}
+{% endfor %}
