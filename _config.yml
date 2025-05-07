@@ -1,5 +1,5 @@
-title: "Welcome to VipeCollie's Blog"
-description: "Bienvenue sur le blog de VipeCollie"
+title: "VipeCollie's Blog"
+description: "Blog de VipeCollie"
 theme: jekyll-theme-architect
 baseurl: "" # 
 permalink: /:year/:month/:day/:title.html # Format des URLs des articles
