@@ -11,10 +11,4 @@ title: Accueil
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-## Portfolio
 
-{% for page in site.pages %}
-  {% if page.path contains '_portfolio' %}
-  - [{{ page.title }}]({{ page.url }})
-  {% endif %}
-{% endfor %}
