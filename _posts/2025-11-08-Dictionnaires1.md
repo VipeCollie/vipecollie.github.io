@@ -12,7 +12,7 @@ Choisissez un article et cela déduira son montant de votre porte-monnaie
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
-
+```markdown
 {% highlight python %}
 menu ={
     "poisson":{"prix":6.50 , "stock":10},
