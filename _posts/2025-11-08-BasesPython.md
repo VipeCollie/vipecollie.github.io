@@ -13,4 +13,4 @@ A la différence de Citizencode il y a des vidéos et des cours écrits.
 Ca m'a permis d'apprendre les bases de Python.
 Essayez!
 
-<img src="/assets/image/Openclassroom1.jpg" alt="1" width="600" height="600">
+<img src="/assets/image/Openclassroom1.jpg" alt="1" width="700" height="500">
