@@ -2,7 +2,7 @@
 layout: default
 title: Accueil
 ---
-
+<link rel="stylesheet" href="/custom.css">
 # Bienvenue sur ma page
 
 ## Articles de Blog
