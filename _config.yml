@@ -6,5 +6,7 @@ permalink: /:year/:month/:day/:title.html # Format des URLs des articles
 show_downloads: true
 google_analytics: # 
 
+```yaml
 markdown: kramdown
 highlighter: rouge
+
