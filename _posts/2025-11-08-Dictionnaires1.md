@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codage 1"
+title: "Python : dictionnaires"
 date: 2025-11-08
 categories: [blog, jekyll]
 ---
