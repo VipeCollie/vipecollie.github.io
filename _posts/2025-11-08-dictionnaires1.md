@@ -5,6 +5,18 @@ date: 2025-11-08
 categories: [blog, jekyll]
 ---
 
+<style>
+/*  */
+.highlight {
+  background: #f4f4f4;
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95em;
+}
+</style>
+
 # Codage : Dictionnaires  - Passage de commande
 
 Voici les lignes de code que j'ai réalisées.
@@ -12,7 +24,6 @@ Choisissez un article et cela déduira son montant de votre porte-monnaie
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
-```markdown
 {% highlight python %}
 menu ={
     "poisson":{"prix":6.50 , "stock":10},
