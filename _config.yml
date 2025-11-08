@@ -1,6 +1,6 @@
 title: "VipeCollie's Blog"
 description: "Blog de VipeCollie"
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 baseurl: "" # 
 permalink: /:year/:month/:day/:title.html # Format des URLs des articles
 show_downloads: true
