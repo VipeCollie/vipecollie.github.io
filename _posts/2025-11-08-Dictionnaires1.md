@@ -8,7 +8,7 @@ categories: [blog, jekyll]
 # Codage : Dictionnaires  - Passage de commande
 
 Voici les lignes de code que j'ai réalisées.
-Choisissez un article et cela déduiras son montant de votre porte-monnaie
+Choisissez un article et cela déduira son montant de votre porte-monnaie
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
