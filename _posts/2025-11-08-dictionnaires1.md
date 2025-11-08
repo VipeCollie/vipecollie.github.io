@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Python : dictionnaires"
 date: 2025-11-08
 categories: [blog, jekyll]
