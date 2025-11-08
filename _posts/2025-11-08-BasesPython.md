@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Openclassroom : Bases Python"
-date: 2025-08-11
+date: 2025-11-08
 categories: [blog, jekyll]
 ---
 
