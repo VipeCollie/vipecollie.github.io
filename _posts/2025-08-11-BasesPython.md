@@ -5,11 +5,12 @@ date: 2025-08-11
 categories: [blog, jekyll]
 ---
 
-# Citizencode
+# Openclassroom : Base Python
 
-J'ai eu mes badges Citizencode.
+J'ai fait la formation Openclassroom : bases Python
 
-Ca m'a appris le codage en langage Python de façon ludique.
+A la différence de Citizencode il y a des vidéos et des cours écrits. 
+Ca m'a permis d'apprendre les bases de Python.
 Essayez!
 
 <img src="/assets/image/Openclassroom1.jpg" alt="1" width="600" height="600">
