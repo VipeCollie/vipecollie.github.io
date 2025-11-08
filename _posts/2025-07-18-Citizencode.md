@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Citizencode"
-date: 2025-18-07
+date: 2025-07-18
 categories: [blog, jekyll]
 ---
 
