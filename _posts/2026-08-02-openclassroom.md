@@ -22,6 +22,9 @@ Voici un exemple de programme que j’ai réalisé pendant la formation.
 Il permet de calculer un salaire horaire à partir d’un salaire annuel.
 
 {% highlight python %}
+
+
+
 def salaire_mensuel(salaire_annuel):
     return salaire_annuel / 12
 
