@@ -24,7 +24,7 @@ Choisissez un article et cela déduira son montant de votre porte-monnaie
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
-{% highlight python %}
+```python
 menu ={
     "poisson":{"prix":6.50 , "stock":10},
     "pomme":{"prix":0.80, "stock":23},
@@ -68,7 +68,7 @@ def commande(menu):
 for i in range(3):
 
     commande(menu)
-{% endhighlight %}
+
 
 
 
