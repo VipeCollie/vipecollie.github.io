@@ -17,7 +17,7 @@ categories: [blog, jekyll]
 }
 </style>
 
-# Codage : xxx
+# Codage : Dictionnaire
 
 Voici les lignes de code que j'ai réalisées.
 Choisissez un article et cela déduira son montant de votre porte-monnaie
