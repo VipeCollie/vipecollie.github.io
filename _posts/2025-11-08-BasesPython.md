@@ -29,7 +29,6 @@ Essayez!
 
 Voici les lignes de code que j'ai réalisées.
 
-<img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
 {% highlight python %}
 menu ={
