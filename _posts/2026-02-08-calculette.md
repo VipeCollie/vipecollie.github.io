@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Python : XXX"
+title: "Python : Calculette"
 date: 2026-01-02
 categories: [blog, jekyll]
 ---
@@ -17,7 +17,7 @@ categories: [blog, jekyll]
 }
 </style>
 
-# Codage : xxx
+# Codage : Calculette
 
 Voici les lignes de code que j'ai réalisées.
 Choisissez un article et cela déduira son montant de votre porte-monnaie
@@ -25,7 +25,7 @@ Choisissez un article et cela déduira son montant de votre porte-monnaie
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
 
-```python
+{% highlight python %}
 nombre1=int(input("choissisez un nombre : "))
 nombre2=int(input("choissisez un nombre : "))
 operateur=input("choissisez un operateur : ")
@@ -48,7 +48,7 @@ if nombre2==0 and operateur=="/":
 else:
     round(resultat)
     print(resultat)
-
+{% endhighlight %}
 
 
 
