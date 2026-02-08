@@ -31,47 +31,22 @@ Voici les lignes de code que j'ai réalisées.
 
 
 {% highlight python %}
-menu ={
-    "poisson":{"prix":6.50 , "stock":10},
-    "pomme":{"prix":0.80, "stock":23},
-    "poulet":{"prix":16.80,"stock":7}
-}
-commande_passé={
-    "poisson":0,
-    "pomme":0,
-    "poulet":0
-}
-argent={
-    "argent":50
-}
-def commande(menu):
-    choix=input("choissisez le produit que vous voulez :")
-    if choix not in menu:
-        print("ce produit n'est pas dans le menu")
-        return
-    if menu[choix]["stock"]==0:
-        print("ce produit n'a plus de stock")
-        return
-        
-    else:
-        print(f"veuillez payer le prix de {menu[choix]['prix']} €")
-        if argent["argent"]<menu[choix]["prix"]:
-            print("vous n'avez pas assez d'argent pour payer ")
-        else:
-            menu[choix]["stock"]-=1
-            commande_passé[choix]+=1
-            print("merci pour votre achat")
-            argent["argent"]=argent["argent"]-menu[choix]["prix"]
-        if commande_passé[choix]==3:
-            print("vous avez achettez trois fois ce produit voici un offert")
-            commande_passé[choix]-=3 
-    print(f"il vous reste {argent["argent"]} €")
+def salaire_mensuel(salaire_annuel):
+    salaire_mensuel=salaire_annuel/12
+    return salaire_mensuel
 
-
-
-
-
-for i in range(3):
-
-    commande(menu)
+def salaire_hebdomadaire(salaire_mensuel):
+    salaire_hebdomadaire=salaire_mensuel/4
+    return salaire_hebdomadaire
+def salaire_horaire(salaire_hebdomadaire,heures_travailler):
+    salaire_horaire=salaire_hebdomadaire/heures_travailler
+    return salaire_horaire
+H=int(input("ecrivez le nombre d'heures que vous travailler par semaine : "))
+sal_ann=int(input("ecrivez le  montant de votre salaire annuel : "))
+sal_mens=salaire_mensuel(sal_ann)
+sal_hebdo=salaire_hebdomadaire(sal_mens)
+sal_hor=salaire_horaire(sal_hebdo,H)
+print("vous gagner")
+print(sal_hor)
+print("€ par heure")
 {% endhighlight %}
