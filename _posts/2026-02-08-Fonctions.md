@@ -6,11 +6,11 @@ categories: [blog, jekyll]
 ---
 
 
-# Openclassroom : Fonctions
+# Openclassroom Base de python : Fonctions
 
 
 
-Voici les lignes de code que j'ai réalisées.
+Voici les lignes de code que j'ai réalisées.Ca sert à déterminer le salaire herbdomaidaire et mensuel en fonction du nombres d'heures par semaine et du salaire annuel.
 
 
 {% highlight python %}
