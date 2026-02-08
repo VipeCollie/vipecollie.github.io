@@ -75,3 +75,8 @@ for i in range(3):
 
     commande(menu)
 {% endhighlight %}
+
+
+<a href="https://vipecollie.github.io" target="_blank" rel="noopener">
+Retour
+</a>
