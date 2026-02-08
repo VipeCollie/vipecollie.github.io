@@ -31,6 +31,7 @@ Voici les lignes de code que j'ai réalisées.
 
 
 {% highlight python %}
+
   def salaire_mensuel(salaire_annuel):
       salaire_mensuel=salaire_annuel/12
       return salaire_mensuel
@@ -49,4 +50,6 @@ Voici les lignes de code que j'ai réalisées.
   print("vous gagner")
   print(sal_hor)
   print("€ par heure")
+
+  
 {% endhighlight %}
