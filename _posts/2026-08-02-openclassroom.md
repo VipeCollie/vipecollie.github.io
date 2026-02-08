@@ -28,7 +28,10 @@ Essayez!
 <img src="/assets/image/Openclassroom1.jpg" alt="1" width="700" height="500">
 
 Voici les lignes de code que j'ai réalisées.
-
+{%highlight python%}
+def salaire_mensuel(salaire_annuel):
+  return salaire annuel / 12
+{% endhighlight %}
 
 {% highlight python %}
 def salaire_mensuel(salaire_annuel):
