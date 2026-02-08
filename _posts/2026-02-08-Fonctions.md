@@ -5,25 +5,11 @@ date: 2025-11-08
 categories: [blog, jekyll]
 ---
 
-<style>
-/*  */
-.highlight {
-  background: #f4f4f4;
-  border-radius: 8px;
-  padding: 1rem;
-  overflow-x: auto;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 0.95em;
-}
-</style>
 
 # Openclassroom : Fonctions
 
-J'ai fait la formation Openclassroom : bases Python
 
-A la différence de Citizencode il y a des vidéos et des cours écrits. 
-Ca m'a permis d'apprendre les bases de Python.
-Essayez!
+A
 
 <img src="/assets/image/Openclassroom1.jpg" alt="1" width="700" height="500">
 
