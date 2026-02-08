@@ -25,4 +25,6 @@ j'ai donc décidé d'apprendre autrement:
 
 
 
-
+<a href="https://vipecollie.github.io" target="_blank" rel="noopener">
+Retour
+</a>
