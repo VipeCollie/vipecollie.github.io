@@ -34,14 +34,11 @@ Voici les lignes de code que j'ai réalisées.
 def salaire_mensuel(salaire_annuel):
     return salaire_annuel / 12
 
-
 def salaire_hebdomadaire(salaire_mensuel):
     return salaire_mensuel / 4
 
-
 def salaire_horaire(salaire_hebdomadaire, heures_travaillees):
     return salaire_hebdomadaire / heures_travaillees
-
 
 heures = int(input("Entrez le nombre d'heures travaillées par semaine : "))
 salaire_annuel = int(input("Entrez le montant de votre salaire annuel (€) : "))
@@ -51,6 +48,6 @@ hebdo = salaire_hebdomadaire(mensuel)
 horaire = salaire_horaire(hebdo, heures)
 
 print(f"Vous gagnez {horaire:.2f} € par heure.")
+{% endhighlight %}
 
   
-{% endhighlight %}
