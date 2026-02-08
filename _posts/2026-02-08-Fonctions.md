@@ -34,3 +34,7 @@ print(sal_hor)
 print("€ par heure")
 {% endhighlight %}
 
+
+<a href="https://vipecollie.github.io" target="_blank" rel="noopener">
+Retour
+</a>
