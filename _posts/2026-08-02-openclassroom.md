@@ -45,6 +45,9 @@ hebdo = salaire_hebdomadaire(mensuel)
 horaire = salaire_horaire(hebdo, heures)
 
 print(f"Vous gagnez {horaire:.2f} € par heure.")
+
+
+
 {% endhighlight %}
 
   
