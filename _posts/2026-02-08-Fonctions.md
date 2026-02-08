@@ -17,7 +17,7 @@ categories: [blog, jekyll]
 }
 </style>
 
-# Openclassroom : Base Python
+# Openclassroom : Fonctions
 
 J'ai fait la formation Openclassroom : bases Python
 
