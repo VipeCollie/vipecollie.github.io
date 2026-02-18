@@ -28,7 +28,7 @@ Essayez!
 <img src="/assets/image/Openclassroom1.jpg" alt="1" width="700" height="500">
 
 
-# Openclassroom Base de python : Fonctions
+# Openclassroom Base Python : Fonctions
 
 
 
@@ -56,6 +56,38 @@ print(sal_hor)
 print("€ par heure")
 {% endhighlight %}
 
+# Openclassroom Base Python: Calculette
+
+Voici les lignes de code que j'ai réalisées.
+Choisissez un article et cela déduira son montant de votre porte-monnaie
+
+<img src="/assets/image/1.jpg" alt="1" width="50" height="50">
+
+
+{% highlight python %}
+nombre1=int(input("choissisez un nombre : "))
+nombre2=int(input("choissisez un nombre : "))
+operateur=input("choissisez un operateur : ")
+
+if operateur== "+" :
+    resultat=nombre1+nombre2
+if operateur== "-" :
+    resultat=nombre1-nombre2
+if operateur == "/":
+    resultat=nombre1/nombre2
+if operateur == "*":
+    resultat=nombre1*nombre2
+
+
+
+
+if nombre2==0 and operateur=="/":
+    print("resultat impossible")
+
+else:
+    round(resultat)
+    print(resultat)
+{% endhighlight %}
 
 
 
