@@ -17,7 +17,7 @@ categories: [blog, jekyll]
 }
 </style>
 
-# Codage : Calculette
+# Open classroom Bases Python: Calculette
 
 Voici les lignes de code que j'ai réalisées.
 Choisissez un article et cela déduira son montant de votre porte-monnaie
