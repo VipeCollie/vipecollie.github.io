@@ -61,7 +61,7 @@ print("€ par heure")
 # Openclassroom Base Python: Calculette
 
 Voici les lignes de code que j'ai réalisées.
-Ce code permet de calculer uun peu comme une calculette.
+Ce code permet de calculer un peu comme une calculette.
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
