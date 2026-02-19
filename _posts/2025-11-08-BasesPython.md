@@ -32,7 +32,9 @@ Essayez!
 
 
 
-Voici les lignes de code que j'ai réalisées.Ca sert à déterminer le salaire herbdomaidaire et mensuel en fonction du nombres d'heures par semaine et du salaire annuel.
+Voici les lignes de code que j'ai réalisées.
+Ca sert à déterminer le salaire herbdomaidaire et mensuel 
+en fonction du nombres d'heures par semaine et du salaire annuel.
 
 
 {% highlight python %}
@@ -59,7 +61,7 @@ print("€ par heure")
 # Openclassroom Base Python: Calculette
 
 Voici les lignes de code que j'ai réalisées.
-Choisissez un article et cela déduira son montant de votre porte-monnaie
+Ce code permet de calculer uun peu comme une calculette.
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
