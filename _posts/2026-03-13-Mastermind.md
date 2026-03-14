@@ -20,7 +20,7 @@ categories: [blog, jekyll]
 # Codage : Mastermind
 
 Voici les lignes de code que j'ai réalisées.
-Choisissez un article et cela déduira son montant de votre porte-monnaie
+jeu mastermind essayer de trouver le combinaison de couleur
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
