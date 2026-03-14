@@ -20,7 +20,7 @@ categories: [blog, jekyll]
 # Codage : Class animal
 
 Voici les lignes de code que j'ai réalisées.
-Choisissez un article et cela déduira son montant de votre porte-monnaie
+Ce code permet d'effectuer les action principal d'un animal
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
