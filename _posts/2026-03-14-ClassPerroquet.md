@@ -20,7 +20,7 @@ categories: [blog, jekyll]
 # Codage : Class perroquet
 
 Voici les lignes de code que j'ai réalisées.
-Choisissez un article et cela déduira son montant de votre porte-monnaie
+Voici un perroquet qui apprend des mot et les répète
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
