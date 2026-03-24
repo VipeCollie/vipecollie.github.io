@@ -20,7 +20,7 @@ categories: [blog, jekyll]
 # Codage : Class perroquet
 
 Voici les lignes de code que j'ai réalisées.
-Voici un perroquet qui apprend des mot et les répète
+Voici un perroquet qui apprend des mots et les répète.
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
