@@ -20,7 +20,7 @@ categories: [blog, jekyll]
 # Codage : Mastermind
 
 Voici les lignes de code que j'ai réalisées.
-jeu mastermind essayer de trouver le combinaison de couleur
+C'est un jeu type Mastermind : essayez de trouver le combinaison de couleur
 
 <img src="/assets/image/1.jpg" alt="1" width="50" height="50">
 
@@ -37,7 +37,7 @@ def combinaison(couleur):
 
 
 def choix():
-    choix_couleur=(input("choisisser 4 couleurs différentes entre R , O ,B ,V ,J: "))
+    choix_couleur=(input("choisissez 4 couleurs différentes entre R , O ,B ,V ,J: "))
     return list(choix_couleur)
 
 def jeu(): 
