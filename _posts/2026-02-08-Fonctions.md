@@ -10,7 +10,7 @@ categories: [blog, jekyll]
 
 
 
-Voici les lignes de code que j'ai réalisées.Ca sert à déterminer le salaire herbdomaidaire et mensuel en fonction du nombres d'heures par semaine et du salaire annuel.
+Voici les lignes de code que j'ai réalisées. Cela sert à déterminer le salaire hebdomadaire et mensuel en fonction du nombres d'heures par semaine et du salaire annuel.
 
 
 {% highlight python %}
